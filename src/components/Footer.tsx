@@ -6,7 +6,7 @@ const Footer: React.FC = () => {
     <footer className="bg-card shadow-inner">
       <div className="container mx-auto py-4 px-6 text-center">
         <p className="text-muted-foreground text-sm">
-          &copy; {new Date().getFullYear()} ChatAura Premium. 
+          &copy; {new Date().getFullYear()} ottox.in. 
           All rights reserved.
         </p>
         <div className="flex justify-center gap-4 mt-2">
